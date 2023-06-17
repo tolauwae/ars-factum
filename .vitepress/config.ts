@@ -17,6 +17,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Alchemy Manual',
+        collapsed: true,
         items: [
           { text: 'Overview', link: '/alchemy/' },
           { text: 'Poison', link: '/alchemy/poison' },
@@ -24,6 +25,7 @@ export default defineConfig({
       },
       {
         text: 'Magic Items',
+        collapsed: true,
         items: [
 	  { text: 'Overview', link: '/magic-items/' },
           { text: 'Books', link: '/magic-items/books' },
@@ -33,7 +35,15 @@ export default defineConfig({
           { text: 'Poison Items', link: '/magic-items/poison' },
           { text: 'Staffs', link: '/magic-items/staffs' },
         ]
-      }
+      },
+      {
+        text: 'Naraka\'s Nefarious Menagerie',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/monsters/' },
+          { text: 'Golorr-possessed Korinn', link: '/monsters/golorr-korinn' },
+        ]
+      },   
     ],
 
     socialLinks: [

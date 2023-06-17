@@ -1,0 +1,20 @@
+@media print {
+	.VPNav,
+	.VPLocalNav,
+	.VPDocFooter {
+		display: none !important;
+	}
+
+        body {
+            font-size: 10px;
+        }
+
+        .vp-doc p {
+            line-height: 18px;
+        }
+
+        .vp-doc p, .vp-doc summary {
+            margin: 8px 0;
+        }
+}
+

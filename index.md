@@ -11,5 +11,7 @@ features:
     link: /alchemy/
   - title: Magic Items
     link: /magic-items/
+  - title: Monsters
+    link: /Monsters/
 ---
 
