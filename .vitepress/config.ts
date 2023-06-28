@@ -41,6 +41,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Overview', link: '/monsters/' },
+          { text: 'The Librarians', link: '/monsters/librarian' },
           { text: 'Golorr-possessed Korinn', link: '/monsters/golorr-korinn' },
         ]
       },   

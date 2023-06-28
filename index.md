@@ -12,6 +12,6 @@ features:
   - title: Magic Items
     link: /magic-items/
   - title: Monsters
-    link: /Monsters/
+    link: /monsters/
 ---
 
