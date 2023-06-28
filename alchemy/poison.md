@@ -132,9 +132,7 @@ How you employ your poisons is determined primarily by the type of poison.
 
 **Inhaled.** These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to this effect. The resulting cloud dissipates immediately afterwards. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
-**Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
-
-Applying a poison to a weapon takes an action.
+**Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. Applying a poison to a weapon takes an action.
 
 ## Identifying Poisons
 
@@ -260,24 +258,25 @@ Your expertise in poison making, has taught you everything about handling volati
 
 ## List of Components
 
-::: tip Note to DMs
-
-Components in this section are listed per biome type.
-You can mix and match different types for a specific biome.
-For instance, in an artic environment you may pick from the arid and aquatic lists.
-The Shadowfell on the other hand, might be a combination of cavernous and arid.
-
-:::
-
-We represent here a list of components for you to use, or take inspiration from when you make your own.
-The components are divided based on the kind of environment they usually occur in.
-We limit the list to five different biome types:
+The environment and biomes adventurers find themselves in, play a large roll in what kinds of components they can find.
+In cities, poisoners look for mosses and climbers, while they search for fungi in caverns and mines.
+Here, we present five broad types of biomes.
 
 - **arid** (artic, deserts, mountains, stony hills)
 - **aquatic** (sea, swamp, island, ocean, river, underwater)
 - **cavernous** (caves, underdark, mines)
 - **sylvan** (farms, feywild, forests, grasslands, hills, jungle, woodlands)
 - **urban** (cities, dungeons, fortresses)
+
+For each of these biomes we give a list of twenty generic components, as well as a handful of unique components.
+
+::: tip Note to DMs
+
+You can mix and match different types for a specific biome.
+For instance, in an artic environment you may pick from the arid and aquatic lists.
+The Shadowfell on the other hand, might be a combination of cavernous and arid.
+
+:::
 
 ### Arid Biomes
 
@@ -291,6 +290,29 @@ Arid biomes are barren places with very few vegetation. The few animals that sur
 It is often used in sleeping draughts and poisons with similar effects.
 
 **Jackalwere claws.** Venomous and corrupting, rare component. Poisoners have recently discovered that the claws from Jackalwers can be used to create deadly concoctions.
+
+**Lamia Hair.** Befuddling and restorative, very
+rare component. The hair from these sinister
+shapeshifting desert dwellers can contain traces of
+their magic long after they’ve been cut.
+
+**Peddlebloom Roots.** Corrupting, uncommon
+component. The pebblebloom flower grows in
+loose gravel surfaces at the top of mountains.
+When ground down the powder can create very
+corrosive poisons.
+
+**Sandbat Venom.** Venomous and corrupting,
+common component. The venom of this large
+desert rodent is a favorite ingredient of the many
+desert tribes for their injury poisons.
+
+**Troll Blood.** Venomous and restorative, very rare
+component. Because of the regenerative
+properties of troll blood, it is extremely valuable.
+This green viscous liquid can be used in the
+manufacturing of many poisons and certain
+potions of healing.
 
 <span class="tbheader">Arid Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
@@ -318,6 +340,81 @@ It is often used in sleeping draughts and poisons with similar effects.
 
 *40% corrupting, 30% venomous, 20% befuddling, 10% restorative*
 
+### Aquatic Biomes
+
+Rivers, swamps, oceans, and other aquatic biomes
+are abundant with natural resources. Many are
+used in poison making.
+
+**Dark Spice.** Befuddling, very rare component.
+Dark spice is only found mixed with the sands at
+the bottom of very deep seas. It is believed they
+are used by sea elves to expand their minds and
+have clearer visions of their past lives. Whether
+true or not, what is known is that the sand-like
+substance can be used to create powerful
+befuddling poisons.
+
+**Dragon Eel Slime.** Corrupting and venomous,
+rare component. The slime of the dragon eel is so
+corrosive it can dissolve armor. Dragon eels can
+grow up to an impressive 10 feet in length and are
+found in warm waters.
+
+**Entangle Weed.** Corrupting and venomous, very
+rare component. When immersed in saltwater
+these long thin seaweeds are nigh-invisible. They
+entangle any creature which swims into their
+grasp and slowly dissolve them into nutrients.
+
+**Giant Stormcoy Barbel.** Corrupting and
+restorative, rare component. The barbels of the
+giant stormcoy can measure a dozen feet and a
+small part can form a powerful component.
+
+**Glowing Inksquid Gills.** Restorative and
+venomous, uncommon component. Glowing
+inksquids are deepsea dwelling squids that can
+grow over 30 feet in length. Their gills are quite
+sought-after alchemical components, which can harm or heal depending on their treatment.
+
+**Lakeleaf.** Restorative, common component.
+Parsley like herb which grows on the shores of
+rivers. When rubbed into meat, it never spoils. It
+can also be used to create some common
+antidotes.
+
+**Ryefish eyes.** Restorative and venomous,
+common component. The bright colorful eyes of
+the ryefish are used in many alchemical recipes,
+however, they can be hard to acquire since the
+eyes can only hold their shape immersed in water.
+
+**Seadance Algae.** Befuddling and restorative,
+rare component. The rare seadance algae grows
+very intricate forms which seem to dance in the
+currents of the sea. It is said that triton can hear
+the algae sing while they dance from miles
+downstream.
+
+**Sea Serpent Fangs.** Befuddling, corrupting and
+venomous, very rare component. The fangs from
+these sea swimming dragons can be used to
+create almost any poison, but few are brave
+enough to get one.
+
+**Webweeds.** Befuddling and venomous,
+uncommon component. These weeds grow in thin
+gossamer-like strings covering smooth rocks in
+rivers or lakes.
+
+**Wreath Algae.** Undetermined, rare component.
+These algae grow in circular patterns underwater
+in places where someone has died. When
+combined with another component of any rarity, it
+gains the same types. It can only gain properties
+in this way once.
+
 <span class="tbheader">Aquatic Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
@@ -343,6 +440,65 @@ It is often used in sleeping draughts and poisons with similar effects.
 | 20  | Weaver cane fiber         | Resin      | Rare      | Restorative |
 
 *40% venomous, 30% restorative, 20% befuddling, 10% corrupting*
+
+### Cavernous Biomes
+
+The caves and dungeons of a world are often
+littered with treasures, but adventurers who look
+past the baubles and trinkets will find many
+extraordinary resources. The otherworldly
+Underdark especially is home to some remarkable
+toxic substances.
+The following is a list of unique components
+found in these biomes.
+
+**Arachnite Poison.** Corrupting and venomous,
+common component. The bloodred poison of the
+tiny arachnite spider, which is only found in the
+caverns of the Underdark.
+
+**Basilisk Venom.** Corrupting and venomous,
+uncommon component. The venom from the
+fangs of the basilisk is legendary for its deadlines.
+It is also a favorite among poisoners. It is also a
+unique ingredient for the dangerous Basilisk’s Eye
+poison.
+
+**Basirond Spores.** Befuddling, uncommon
+component. Basironds are walking insectile fungi.
+They have inverted cup-like caps with a sooty
+black interiors. These caps hold spores which can
+cause strong hallucinatory effects when released
+into the air.
+
+**Carrion Crawler Brain Juice.** The fluids from
+this giant centipede’s brain are a dangerous
+paralytic poison that can be extracted or simply
+beaten out of the organ. The simplicity of
+acquiring this poison made it the poison of choice
+for many orcs.
+
+**Drider Poison.** Befuddling and corrupting,
+uncommon component. The poison extracted
+from a Drider’s stinger is a volatile substance and
+extremely dangerous to organic life.
+
+**Giant Spider Venom.** Befuddling and
+corrupting, common component. The paralyzing
+venom from the giant spiders of the Underdark
+are a common ingredient for drow poisons.
+
+**Mummified Organ.** Corrupting and venomous,
+uncommon component. The main ingredient in
+the powerful Mummy Dust poison.
+
+**Soporificanus Dust.** Befuddling, rare
+component. This beautiful flower only grows in
+dark damp places, especially around lakes in the
+Underdark. At the lightest touch it releases a
+powder in the air that puts anyone who breaths it
+to sleep. It is also an important ingredient of
+[*Abi-Dalzim’s Potion of Dreamless Slumber*](./poison#dreamless-slumber).
 
 <span class="tbheader">Cavernous Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
@@ -370,6 +526,85 @@ It is often used in sleeping draughts and poisons with similar effects.
 
 *40% befuddling, 30% corrupting, 20% restorative, 10% venomous*
 
+### Sylvan Biomes
+
+The Feywild is full of strange and dangerous
+ingredients that can be used in many poisons. But
+even closer to home in the woodlands, jungles and
+hills of the Material Realm, adventurers can find
+many resources to brew and mix their poisons.
+The following is a list of unique components
+found in these biomes.
+
+**Blueleaf Roots.** Corrupting and restorative,
+uncommon component. The tree resembled a
+large maple with strange, gleaming blue leafs and
+many points. They actually glowed with a faint,
+blue light. The roots of the tree are a common
+ingredient in many potions.
+
+**Daggerthorn Acorns.** Restorative, rare
+component, rare component. The daggerthorn is a
+small rare tree with small spikey leaves which only
+grows in the shade of larger deciduous trees.
+
+**Flower of the Dawn.** Restorative, very rare
+component, rare component. This rare flower can
+only be found in the Feywild. It emits a fragrance
+that instantly awakens a sleeping creature, even
+one in an enchanted slumber.
+
+**Hag’s Milk.** Befuddling and corrupting, rare
+component. A preciously guarded secret,
+outsiders call this potion derisively Hag's Milk.
+Nobody knows how hags create it or what for, but
+alchemists have learned how to use it to create
+powerful poisons.
+
+**Lovers’ Sleep.** Befuddling and restorative, rare
+component. This flower is said to grow wherever
+lovers sleep in each others arms. True or not, the
+flower is a powerful ingredient for potions.
+
+**Mandrake Roots.** Befuddling and restorative,
+very rare component. When the root is dug up, it
+screams and kills all who hear it.
+
+**Mule Pollen.** Corrupting and venomous,
+common component. A daisy-type yellow flower,
+folklore has it that the pollen drives rodents into a
+frenzy.
+
+**Razorvine.** Any type, uncommon component.
+Razorvine is a twinning climber which can grow at
+tremendous speeds, but wilts entirely the moment
+it is touched by moonlight.
+
+**Nararoot.** Corrupting and venomous, common
+component. Woody black tuber, which is often
+used to brew a sweet tea that suppresses female
+fertility. Brewed wrongly, it can be very poisonous.
+
+**Roots of the Star-indigo Flower.** Befuddling,
+corrupting and poisonous, uncommon component.
+This plant grows only in the wild fields of the
+Feywild. In daylight, its flowers are not much
+different from ordinary wildflowers, but they glow
+faintly at dusk, and at night as brightly as the
+stars. Its pedddles are used to make glowing dyes
+and inks, but its roots are highly versatile
+component for poisons.
+
+**Unicorn Blood.** Restorative, rare component.
+The blood of a unicorn contains some of its
+amazing healing powers. Consuming an antidotes
+brewed with the blood, also immediately restores
+2d4 hitpoints.
+
+**Wolfsbane.** Befuddling and restorative, very rare
+component. When the root is dug up, it screams
+and kills all who hear it.
+
 <span class="tbheader">Sylvan Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
@@ -395,6 +630,77 @@ It is often used in sleeping draughts and poisons with similar effects.
 | 20  | Star thistle              | Essence    | Uncommon  | Restorative |
 
 *40% restorative, 30% venomous, 20% befuddling, 10% corrupting*
+
+### Urban Biomes
+
+Even in among the stone and mortar of cities can
+discerning adventurers find the components
+necessary to brew deadly draughts.
+The following is a list of unique components
+found in these biomes.
+
+**Bones of an Undead.** Befuddling, corrupting
+and venomous, common component. Bone
+fragments of an undead can cause create harm to
+the living.
+
+**Brain Tissue of Cranium Rats.** Befuddling and
+venomous, common component. Cranium rats are
+psionically enhanced rats, transformed by mind
+flayers to act as spies in overground cities.
+
+**Clovelichen.** Venomous, uncommon component.
+Clovelichen only grows on dead wood and has a
+white pearl-like appearance, like morning dew.
+When used with another venomous component
+during the brewing of a potion, the clovelichen
+sample counts as a rare component.
+
+**Dire Bat Wings.** Corrupting, uncommon
+component. The large wings of the monstrous dire
+bat, are a well-known ingredient among poison
+brewers.
+
+**Doppelganger liver.** Befuddling and corrupting,
+uncommon component. Doppelgangers are very
+adapt at hiding, but if you can find one, their livers
+are a very useful alchemical ingredient.
+
+**Galdermoss.** Any type, common component. For
+centuries, this common inconspicuous moss used
+to be an overlooked nameless plant. Until, the
+famous wizard Galder discovered it could
+substitute a wide variety of alchemical ingredients.
+Ever since, it has been known as Galdermoss.
+
+**Goldencup.** Befuddling and restorative,
+uncommon component. Oily yellow moss found
+where water collects. In cities, it can often be
+found under leaking rain pipes or slanted roofs.
+
+**Mimic Adhesive.** Corrupting, uncommon
+component. The adhesive of mimics can be used
+by alchemist in a variety of ways. Poison brewers
+however utilize it as a strengthening agent for
+various poisons. Using its unrefined form to brew
+a poison, gives you advantage on the brewing DC.
+
+**Pistil of a Corpse Flower.** Venomous, rare
+component. Sprouting from corrupted soils of
+undeath, the Corpse Flower uproots itself when it
+reaches its full size, in search of corpses to
+consume. It releases a constant stench, potent
+enough to incapacitate nearby creatures. Using a
+pistil from one of its flowers to create the Shallow
+Grave poison increases the damage die by one
+size, to deal 27 (5d10) damage.
+
+**Rakshasa Blood.** Befuddling and corrupting,
+rare component. Rakshasas were a dignified race
+of duplicitous outsiders that mostly dwelt in
+crowded cities, where nobody will miss a few less
+people after the Rakshasas has finished his
+dinner. Their blood is almost as deadly.
 
 <span class="tbheader">Urban Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
@@ -422,47 +728,340 @@ It is often used in sleeping draughts and poisons with similar effects.
 
 *25% restorative, 25% venomous, 25% befuddling, 25% corrupting*
 
-**Monsters** can also be a source of useful components.
-
-- spores of a basidirond, uncommon befuddling
-- breath of a green dragon, rare venomous
-
 ## List of Poisons
 
-**Assassin's Blood (Ingested)**
-*Uncommon, DC 15, 15 days, components: one common venomous + one common corrupting*
+> Unlike the women of the world up
+above, in Menzoberranzan we are not
+weak seamstresses. Our art is that of
+poison and with venom we sting.
+> 
+> ― Malice Do'Urden
 
-A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (ld12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned.
+This chapter describes a widely varying list of common poisons. Each recipe lists the required ingredients along with the gold cost they can be replaced with; the difficulty of the skill check DC; and finally the required number, type, and rarity of components to make the poison.
 
-**Pale Tincture (ingested)**
-*Uncommon, DC 18, 25 days, components: two uncommon venomous + one common corrupting*
+When mixing a poison you need to provide a component for each one listed. Components which have multiple types can only satisfy one requirement. When recipes list a component of a specific rarity, any component with that rarity or higher can satisfy this requirement.
 
-A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (ld6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (ld6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally
+**<span id="dreamless-slumber">Abi-Dalzim’s Potion of Dreamless Slumber.</span>**<br>
+*Very rare (ingested), DC 22, 135 gp (or sand, ruby,
+milk), one sample of Soporificanus Dust.*
 
-**Malice (Inhaled)**
-*Uncommon, DC 16, 20 days, components: one uncommon venomous + one common corrupting*
+A creature subjected to this poison must make a
+DC 17 Constitution saving throw. On a failed save,
+the creature falls into a deep dreamless sleep from
+which they can’t be woken except by magical
+means. This condition last for 24 hours.
 
-A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.
+**Arcane Mucus.**<br>
+*Very rare (contact), DC 27, 210gp (or a pinch of residuum, oil, saltstone), one very rare component of any type.*
 
-**Midnight Tears (Ingested)**
-*Rare, DC 25, 6 months, components: four rare corrupting*
+A creature which touches this mucus is poisoned
+for 8 hours. During this time the creature has
+disadvantage on saving throws and fails all
+Constitution saving throws for concentrating on
+spells.
 
-A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.
+**Assassin’s Blood.**<br>
+*Uncommon (ingested), DC 15, 15 gp (or a vial of blood, salt), one uncommon venomous.*
 
-**Wyvern Poison (Injury)**
-*Rare, DC 20, 6 months, components: poison of a wyvern + one rare venomous*
+A creature subjected to this poison must make a
+DC 10 Constitution saving throw. On a failed save,
+it takes ldl2 poison damage and is poisoned for 24
+hours. On a successful save, the creature takes
+half damage and isn't poisoned.
 
-This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**Basic Poison.**<br>
+*Common (injury), DC 10, one common venomous.*
 
-### List of Antidotes
+A creature subjected to this poison must make a Constitution saving throw or take 1d4 poison damage.
 
-**Greater antidote**
-*DC 30, 12 months, components: blueglow moss (artifact)*
+**Basilisk’s Eye.**<br>
+*Uncommon (injury), DC 15, one sample of Basilisk Venom.*
 
-This antidote can cure any poison that is not artifact level itself, but requires the legendary blueglow moss which only grows in very close proximity to the mythal surrounding the ruins of Myth Drannor.
+A creature subjected to this poison must make a
+Constitution saving throw or take 2d6 necrotic
+damage.
 
-A creature can only enjoy the benefits from taking this potion once.
+**Boiling Moon Draught.**<br>
+*Rare (ingested), DC 20, 60 gp (or moonflower, blood, sand, wine), one rare befuddling.*
 
-**Cure lycanthropy**
-*components: wolfsbane (rare)*
+A signature poison of hags, a creature ingesting
+this poison must succeed on a DC 20 Constitution
+saving throw or be poisoned for 48 hours. During
+this time their appearance is transformed into a
+hideous visage with blotchy skin, warts and
+blackened teeth, much like a hag.
+
+**Brew of the Beloved.**<br>
+*Very rare (inhaled), DC 25,
+95 gp (or sugar, flesh, prussic acid), one very rare
+befuddling and one rare corrupting.*
+
+Another poison created by hags, any creature
+who inhales this steaming, sickeningly sweet vapor
+must succeed on a Wisdom Saving throw or be
+charmed for one week. While charmed, the
+creature is under the effect of the Geas spell,
+except it only takes 3d8 psychic damage when
+resisting instructions.
+
+**Crying Mucus.**<br>
+*Rare (contact), DC 23, 75 gp (or
+ice, starch, slime), one rare component of any type.*
+
+A creature subject to this poison must succeed
+on a DC 17 Constitution saving throw or gain one
+level of exhaustion. The creature becomes
+immune to the effects of this poison for 24 hours
+whether it succeeds on the save or not.
+
+**Dark Mucus.**<br>
+*Common (contact), DC 14, 2 gp (or
+oil, powdered obsidian), one common of any type.*
+
+A victim must succeed on a Constitution saving
+throw or be poisoned for 8 hours.
+
+**Drow Poison.**<br>
+*Rare (injury), DC 20, 30 gp (or
+any spider, bone dust, gossamer), one sample of
+Drider Poison.*
+
+This poison is typically made only by the drow,
+and in a place far removed from sunlight. A victim
+must succeed on a DC 15 Constitution saving
+throw or be poisoned for one hour. If the saving
+throw fails by 5 or more, the creature is also
+unconscious while poisoned in this way. The
+creature wakes up if it takes damage or if another
+creature takes an action to shake it awake.
+
+**Dust of Mummy.**<br>
+*Uncommon (inhaled), DC 15,
+50 gp (or animal fat, brine, ectoplasm), one
+Mummified Organ.*
+
+A creature subjected to this poison must succeed
+on a DC 14 Constitution saving throw or be
+poisoned for 24 hours. During this time they can't
+regain hit points and their hit point maximum is
+halved rounding up.
+
+**Elixir of Pain.**<br>
+*Rare (ingested), DC 18, 70 gp (or
+alcohol, citrus fruit, rye, zinc) one rare befuddling.*
+
+A creature that drinks this flavorless, colorless
+potion experiences excruciating pain. It must
+succeed on a DC 17 Constitution saving throw or
+drops whatever it’s holding and be poisoned for 10
+minutes. During this time, the victim has
+vulnerability to all damage except any immunities
+it may have.
+
+**Essence of Ether.**<br>
+*Legendary (inhaled), DC 27,
+250 gp (or grounded gems), one legendary
+befuddling and one rare corrupting.*
+
+A creature subjected to this poison must succeed
+on a DC 20 Constitution saving throw or become
+poisoned for 8 hours. The poisoned creature is
+unconscious. The creature wakes up if it takes
+damage or if another creature takes an action to
+shake it awake. When it wakes the creatures takes
+one level of exhaustion.
+
+**Equilibrium Bane.**<br>
+*Uncommon (injury), DC 15,
+one uncommon befuddling.*
+
+A creature exposed to this poison makes a
+Constitution saving throw. If it fails, the creature
+perceives the ground as waving terrain for one
+minute. During this time, the creature’s movement
+speed is halved no matter the terrain.
+
+**Fear Acid.**<br>
+*Rare (ingested), DC 20, 65 gp (or
+stirge egg, brain fluid), one rare befuddling.*
+
+A creature subjected to this poison must succeed
+on a DC 17 Wisdom saving throw or be become
+terrorized by frightening images for 1 hour. During
+this time, the creature is both blind and paralyzed
+by fear.
+
+**Hell Fist.**<br>
+*Very rare (injury), DC 25, 170 gp (or
+grounded lava stone, brandy, saltpeter, brine), one
+uncommon venomous.*
+
+A creature subjected to this poison must make a
+Constitution saving throw, taking 39 (6d12) poison
+damage on a failed save, or half as much damage
+on a successful one.
+
+**Limpid Mucus.**<br>
+*Uncommon (contact), DC 19, 32
+gp (or jellyfish, rotten fruit, rose thorns) one
+uncommon component of any type.*
+
+A creature subjected to this transparent poison
+must succeed on a DC 15 Constitution saving
+throw or become stunned for 10 minutes.
+
+**Malice.**<br>
+*Uncommon (inhaled), DC 16, 20 gp (or
+acid, ash, quartz) one uncommon corrupting.*
+
+A creature subjected to this poison must succeed
+on a DC 15 Constitution saving throw or become
+poisoned for 1 hour. The poisoned creature is
+blinded.
+
+**Midnight Tears.**<br>
+*Rare (ingested), DC 20, 65 gp
+(or tea leaves, charcoal), one rare corrupting.*
+
+A creature that ingests this poison suffers no
+effect until the stroke of midnight. If the poison
+has not been neutralized before then, the creature
+must succeed on a DC 17 Constitution saving
+throw, taking 31 (9d6) poison damage on a failed
+save, or half as much damage on a successful one.
+
+**Noxious Oil.**<br>
+*Uncommon (injury), DC 15, 40 gp
+(or finely ground beetle, oil, seeds), one
+uncommon and one common corrupting.*
+
+An exposed creature makes a Constitution
+saving throw at the start of each of its turns. If it
+succeeds, this poison ends. On a failure, it takes
+2d8 poison damage.
+
+**Pale Blade.**<br>
+*Very rare (injury), DC 25, 150 gp (or
+silver flakes, vinegar, acid), one rare venomous.*
+
+A creature subjected to this poison must make a
+DC 15 Constitution saving throw. On a failure, it
+gains vulnerability to poison damage for 1 minute
+and takes 6d6 poison damage. If it succeeds, it
+takes half as much damage and does not gain
+vulnerability.
+
+**Rending Spice.**<br>
+*Rare (inhaled), DC 19, 75 gp (or
+blackened bone, spice, turned wine), one rare
+corrupting.*
+
+A creature subjected to this poison must make a
+DC 15 Constitution saving throw or be poisoned
+for 10 minutes. During this time, the creature’s
+movement speed is halved and it gains
+disadvantage on Dexterity checks and saving
+throws as its body is covered in tiny wounds.
+
+**Shallow Grave.**<br>
+*Rare (injury), DC 15, 95 gp (or
+water, feather from a bird of prey, dirt, heat), one
+rare venomous.*
+
+A creature subjected to this poison must make a
+DC 15 Constitution saving throw, taking 22 (5d8)
+poison damage on a failed save, or half as much
+damage on a successful one.
+
+**Silvered Wine.**<br>
+*Common (ingested), DC 12, 5 gp
+(or a bottle of wine), one common venomous.*
+
+This poison is a silvered liquor with a very fine
+taste. In a completely unexplained way, it does not
+affect halflings and gnomes. A creature subjected
+to this poison must succeed on a DC 14
+Constitution saving throw or fall into fits of
+laughter during 5 rounds.
+
+**Star Mucus.**<br>
+*Legendary (contact), DC 32, 600 gp
+(or powdered mixture of meteorite, silver and
+copper; egg yolk; liquid myrrh; bee wax; white
+wine), one legendary component of any type.*
+
+A creature subjected to this poison must succeed
+on a DC 15 Wisdom saving throw or have their
+astral body transported into the Astral Plane for 1
+hour. During this time it is as if the victim in under
+the influence of the Astral Projection spell.
+
+**Strangler.**<br>
+*Rare (ingested), DC 18, 50 gp (or
+tears, drop of mercury), one rare venomous.*
+
+A creature subjected to this poison cannot
+breath. The creature is choking for 1 minute.
+
+**Trailing Bite.**<br>
+*Very rare (injury), DC 25, 112 gp
+(or bone broth, dragon tooth, dried grass, rye), one
+very rare venomous.*
+
+A creature subjected to this poison must make a
+DC 15 Constitution saving throw. On a fail, the
+target is poisoned for 1 minute and takes 9 (2d8)
+poison damage at the end of each round.
+
+**Truth Serum.**<br>
+Uncommon (ingested), DC 15, 45
+gp (or animal tongue, dwarvish fire whiskey) two
+uncommon befuddling.*
+
+A creature subjected to this poison must succeed
+on a DC 11 Constitution saving throw or become
+poisoned for 1 hour. The poisoned creature can’t
+knowingly speak a lie, as if under the effect of a
+zone of truth spell.
+
+**Veiled Reaver.**<br>
+*Legendary (injury), DC 27, 310
+gp (or 4 oz lampblack, adamantine dust, vial of
+citric acid), one legendary befuddling and one
+uncommon corrupting.*
+
+A creature subjected to this poison must make a
+DC 15 Constitution saving throw, taking 49 (14d6)
+poison damage on a failed save, or half as much
+damage on a successful one.
+
+**Willowshade Oil.**<br>
+*Uncommon (injury), DC 15,
+gp (or willow bark, tar), one uncommon venomous
+and one common corrupting.*
+
+A creature exposed to this poison takes 3d12
+poison damage whenever it uses a reaction. This
+effect lasts for 1 minute.
+
+**Witch Kiss.**<br>
+*Uncommon (contact), DC 12, gp (or
+ice, rose water, saltpeter), one uncommon
+befuddling.*
+
+A creature subjected to this poison must succeed
+on a DC 13 Constitution saving throw or be
+poisoned until it finishes a long rest. During this
+time, its Constitution score is reduced by 2. If its
+Constitution score would become 0, it dies.
+
+**Writhing Acid.**<br>
+*Uncommon (injury), DC 15, gp
+(or three rat tails, dried oak leaves, sap of
+elderberries), one uncommon venomous.*
+
+A creature subjected to this poison must make a
+Constitution saving throw, taking 10 (3d6) poison
+damage on a failed save, or half as much damage
+on a successful one.
 
