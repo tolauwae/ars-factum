@@ -314,7 +314,7 @@ This green viscous liquid can be used in the
 manufacturing of many poisons and certain
 potions of healing.
 
-<span class="tbheader">Arid Biome: Generic Components</span>
+<span id="arid-table" class="tbheader">Arid Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Ashen pod                 | Powder     | Uncommon  | Corrupting  |
@@ -415,7 +415,7 @@ combined with another component of any rarity, it
 gains the same types. It can only gain properties
 in this way once.
 
-<span class="tbheader">Aquatic Biome: Generic Components</span>
+<span id="aquatic-table" class="tbheader">Aquatic Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Brain lotus fruit         | Extract    | Common    | Befuddling  |
@@ -461,7 +461,7 @@ caverns of the Underdark.
 uncommon component. The venom from the
 fangs of the basilisk is legendary for its deadlines.
 It is also a favorite among poisoners. It is also a
-unique ingredient for the dangerous Basilisk’s Eye
+unique ingredient for the dangerous [Basilisk’s Eye](./poison#basilisk-eye)
 poison.
 
 **Basirond Spores.** Befuddling, uncommon
@@ -490,7 +490,7 @@ are a common ingredient for drow poisons.
 
 **Mummified Organ.** Corrupting and venomous,
 uncommon component. The main ingredient in
-the powerful Mummy Dust poison.
+the powerful [Dust of Mummy](./poison#mummy-dust) poison.
 
 **Soporificanus Dust.** Befuddling, rare
 component. This beautiful flower only grows in
@@ -500,7 +500,7 @@ powder in the air that puts anyone who breaths it
 to sleep. It is also an important ingredient of
 [*Abi-Dalzim’s Potion of Dreamless Slumber*](./poison#dreamless-slumber).
 
-<span class="tbheader">Cavernous Biome: Generic Components</span>
+<span id="cavernous-table" class="tbheader">Cavernous Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Ashwood vines             | Powder     | Common    | Befuddling  |
@@ -605,7 +605,7 @@ brewed with the blood, also immediately restores
 component. When the root is dug up, it screams
 and kills all who hear it.
 
-<span class="tbheader">Sylvan Biome: Generic Components</span>
+<span id="sylvan-table" class="tbheader">Sylvan Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Bane Berry                | Sap        | Uncommon  | Befuddling  |
@@ -702,7 +702,7 @@ crowded cities, where nobody will miss a few less
 people after the Rakshasas has finished his
 dinner. Their blood is almost as deadly.
 
-<span class="tbheader">Urban Biome: Generic Components</span>
+<span id="urban-table" class="tbheader">Urban Biome: Generic Components</span>
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Barrenbolg berries        | Powder     | Very rare | Restorative |
@@ -730,12 +730,9 @@ dinner. Their blood is almost as deadly.
 
 ## List of Poisons
 
-> Unlike the women of the world up
-above, in Menzoberranzan we are not
-weak seamstresses. Our art is that of
-poison and with venom we sting.
+> In Menzoberranzan, we are not weak seamstresses like the women of the world up above. Our art is that of poison and with venom we sting.
 > 
-> ― Malice Do'Urden
+> &mdash; Malice Do'Urden
 
 This chapter describes a widely varying list of common poisons. Each recipe lists the required ingredients along with the gold cost they can be replaced with; the difficulty of the skill check DC; and finally the required number, type, and rarity of components to make the poison.
 
@@ -774,7 +771,7 @@ half damage and isn't poisoned.
 
 A creature subjected to this poison must make a Constitution saving throw or take 1d4 poison damage.
 
-**Basilisk’s Eye.**<br>
+**<span id="basilisk-eye">Basilisk’s Eye.</span>**<br>
 *Uncommon (injury), DC 15, one sample of Basilisk Venom.*
 
 A creature subjected to this poison must make a
@@ -835,7 +832,7 @@ unconscious while poisoned in this way. The
 creature wakes up if it takes damage or if another
 creature takes an action to shake it awake.
 
-**Dust of Mummy.**<br>
+**<span id="mummy-dust">Dust of Mummy.</span>**<br>
 *Uncommon (inhaled), DC 15,
 50 gp (or animal fat, brine, ectoplasm), one
 Mummified Organ.*
