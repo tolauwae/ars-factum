@@ -30,21 +30,11 @@ export default defineConfig({
 	  { text: 'Overview', link: '/magic-items/' },
           { text: 'Books', link: '/magic-items/books' },
           { text: 'Equipment', link: '/magic-items/equipment' },
-          { text: 'Magical Weapons', link: '/magic-items/weapons' },
-          { text: 'Miscellaneous items', link: '/magic-items/misc' },
+          { text: 'Miscellaneous Items', link: '/magic-items/misc' },
           { text: 'Poison Items', link: '/magic-items/poison' },
           { text: 'Staffs', link: '/magic-items/staffs' },
         ]
       },
-      {
-        text: 'Naraka\'s Nefarious Menagerie',
-        collapsed: true,
-        items: [
-          { text: 'Overview', link: '/monsters/' },
-          { text: 'The Librarians', link: '/monsters/librarian' },
-          { text: 'Golorr-possessed Korinn', link: '/monsters/golorr-korinn' },
-        ]
-      },   
     ],
 
     socialLinks: [
