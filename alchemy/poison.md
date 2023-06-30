@@ -1,5 +1,7 @@
 # Poisons
 
+![banner](../images/banner.png)
+
 Poisons are a common weapon in the arsenal of many adventurers. Creating these deadly toxins requires much patience and skill. Anyone who finds a recipe can attempt to make a poison.
 
 ## Types of Poison
@@ -631,6 +633,8 @@ and kills all who hear it.
 
 *40% restorative, 30% venomous, 20% befuddling, 10% corrupting*
 
+![plants](../images/plants.png)
+
 ### Urban Biomes
 
 Even in among the stone and mortar of cities can
@@ -1061,4 +1065,6 @@ A creature subjected to this poison must make a
 Constitution saving throw, taking 10 (3d6) poison
 damage on a failed save, or half as much damage
 on a successful one.
+
+![poisons](../images/vials.png)
 

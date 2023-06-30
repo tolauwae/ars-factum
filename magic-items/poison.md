@@ -28,6 +28,8 @@ This crystal decanter returns any potion into its base ingredients for a brief m
 
 As an action you can pour a single sample of poison in the decanter. After one minute the poison has completely dissolved into nothing, and you know the name and properties of the poison as well as the recipe to recreate it.
 
+<img style="width: 60%" src="../images/poison-magic-items-01.png" alt="Magic items">
+
 ## Flask of Fake Contents
 _Wondrous item, uncommon (requires attunement)_
 
@@ -74,6 +76,23 @@ _Wondrous Item, Rare_
 
 An enchantment on this teapot poisons everything it brews. Whenever a creature drinks liquid poured from this teapot, it takes 2d6 poison damage. Liquid extracted from the teapot only retains this poisonous property for 1 hour.
 
+## Tome of Living Poisons
+_Wondrous item (book), uncommon (2), rare (3), very rare (4)_
+
+This book contains notes on a number of poisons, determined by the rarity of the book. The table below list all possible poisons. The GM decides which poisons or determines it randomly.
+
+If you spend one minute to read the notes of a single poison, it appears in a neat vial on top of the book. The notes for this poison lose their magic after this.
+
+
+| **d6** | **Poison**           |
+| ------ | -------------------- |
+| 1      | Assassins' Blood     |
+| 2      | Basic Poison         |
+| 3      | Drow Poison          |
+| 4      | Midnight Tears       |
+| 5      | Strangler            |
+| 6      | Wisp Lichen Solution |
+
 ## Traveler's Flask
 _Wondrous item, common_
 
@@ -85,4 +104,6 @@ _Wondrous Item, Uncommon_
 With this magic vial you can capture any essence or substance, which physically fits in it.
 
 When the vial is empty you can use an action to deploy the item and succeed on any extraction check. The resulting component must stay in the vial until used in a potion or it will wither away. The vial can only contain one component at a time.
+
+![items](../images/poison-magic-items-02.png)
 
