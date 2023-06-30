@@ -5,12 +5,16 @@
 		display: none !important;
 	}
 
-        body {
-            font-size: 10px;
-        }
-
         .vp-doc p {
             line-height: 18px;
+        }
+
+        .vp-doc blockquote > p, body, .vp-doc td {
+            font-size: 14px;
+        }
+
+        .vp-doc th {
+            background-color: var(--vp-c-bg-soft);
         }
 
         .vp-doc p, .vp-doc summary {

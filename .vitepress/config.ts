@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Ars Factum",
   description: "Homebrew creations for Dungeons & Dragons",
+  base: "/ars-factum/",
   themeConfig: {
     search: {
       provider: 'local'
