@@ -170,7 +170,7 @@ The most powerful potions a mortal can normally ever make are legendary potions 
 However, there are rumors of and legends of even more powerful components.
 Artifacts created by gods or other powerful forces.
 These can be used to create unique and singular potions of artifact level.
-More like, is that your adventures find an ancient civilization or the lair of a powerful lich.
+More likely, your adventures find these potions in the ruins of an ancient civilization or the lair of a powerful lich.
 
 These kinds of potions cannot be reproduced.
 No antiddotes can be created for artifacts poisons and artifact components cannot be refined.
@@ -181,7 +181,7 @@ No antiddotes can be created for artifacts poisons and artifact components canno
 The following rule is entirely optional, because it varies widely from the typical rules in 5e edition Dungeon and Dragons by granting permanent bonuses to stats with achievements.
 :::
 
-Additionally, you can become better at making poisons. You can a permanent +1 bonus to your poison making skill checks whenever you complete one of the following achievements:
+Additionally, you can become better at making poisons. You gain a permanent +1 bonus to your poison making skill checks whenever you complete one of the following achievements:
 
 - create 3 different synthetic components of level 4 potency **or** collect 15 different recipes
 
@@ -473,7 +473,7 @@ black interiors. These caps hold spores which can
 cause strong hallucinatory effects when released
 into the air.
 
-**Carrion Crawler Brain Juice.** The fluids from
+**Carrion Crawler Brain Juice.** Befuddling and venomous, common component. The fluids from
 this giant centipede’s brain are a dangerous
 paralytic poison that can be extracted or simply
 beaten out of the organ. The simplicity of
