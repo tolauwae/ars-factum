@@ -2,7 +2,7 @@
 
 ![banner](../images/banner.png)
 
-Poisons are a common weapon in the arsenal of many adventurers. Creating these deadly toxins requires much patience and skill. Anyone who finds a recipe can attempt to make a poison.
+Poisons are a common weapon in the arsenal of many adventurers. Creating the most deadly toxins requires a lot of patience and skill. But anyone who finds a recipe can attempt to make a poison.
 
 ## Types of Poison
 
@@ -110,7 +110,7 @@ On a fail, the resource becomes exhausted and cannot be used for at least 48 hou
 
 ## The Process of Refinement
 
-Stones you turn into powder, from herbs you distill extract, from other components you make essence.
+Skilled poisoners can turn natural components into even more powerful version. Stones are turned into powder, herbs are distilled into extract, and from other components essences are made.
 Anyone with a *poisoner's kit* can try to refine a component.
 Refinement requires a long rest to perform per level of rarity of the base material.
 Taking a maximum of 4 long rests for a very rare component.
@@ -146,7 +146,7 @@ The [*Brewing Difficulty*](./poison#brewing-difficulty-table) table can be used 
 
 ## Learning Recipes
 
-To make a poison, you first need to learn its recipe. The easiest way is to find or buy a written down version. But an alchemist can attempt to learn the recipe of a poison by using a *poisoner's kit* on a dose of the poison. In order to learn the recipe of a dose of the poison. In order to learn the recipe of a poison, you must first know all properties of the potion.
+To make a poison, you first need to learn its recipe. The easiest way is to find or buy a written down version. But an alchemist can attempt to learn the recipe of a poison by using a *poisoner's kit* on a dose of the poison. In order to learn the recipe of a poison, you must first know all properties of the potion.
 
 This process takes one long rest, and a successful tool check. On a success, you learn the complete recipe of the poison.
 On a fail, the sample is destroyed and you learn nothing.
@@ -154,7 +154,7 @@ Again, the [*Brewing Difficulty*](./poison#brewing-difficulty-table) table can b
 
 ## Effectiveness
 
-When a creature which is already udner the effect of a poison, suffers an additional dose of ssame poison , its effect are not compounded.
+When a creature which is already under the effect of a poison, suffers an additional dose of same poison , its effect are not compounded.
 Instead, the duration of the effect is refreshed.
 The only exception is instant non-recurring damage, which is reapplied.
 
