@@ -20,3 +20,15 @@ However, only one side gives you benefit (1), while the other side can exclusive
 
 The magic the lens holds, is so strong that it makes the glass foggy over time. After 30 days, the lens is no longer see-through. To restore it, a single vial of *Oil of Etherealness* has to be applied to the surface of the lens.
 
+## Orb of Remembering
+_Wondrous item (orb), uncommon (requires attunement)_
+
+This orbs works as a mental library. You can mentally write down anything in it. Reading and writing information takes as much time as with pen and paper.
+
+When you lose attunement to the orb, it loses everything that is written down in it.
+
+## Traveler's Flask
+_Wondrous item, common_
+
+This double-sided iron flask adjusts the temperature of liquids poured from it. Any liquid poured from the blue-capped side becomes refreshingly cool. Any liquid poured from the red-capped side becomes soothingly warm.
+

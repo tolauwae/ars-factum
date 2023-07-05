@@ -33,7 +33,7 @@ export default defineConfig({
           { text: 'Equipment', link: '/magic-items/equipment' },
           { text: 'Miscellaneous Items', link: '/magic-items/misc' },
           { text: 'Poison Items', link: '/magic-items/poison' },
-          { text: 'Staffs', link: '/magic-items/staffs' },
+          { text: 'Staffs and Wands', link: '/magic-items/staffs' },
         ]
       },
     ],

@@ -23,7 +23,7 @@ This magical necklace is inlaid with iridescent black gemstones found in the Und
 _Wondrous item (necklace), very rare (requires attunement)_
 
 While you wear this necklace, you can ignore any somatic component of spells you cast and you can use the necklace as you spellcasting focus.
-Additionally, any creature with an intelligence score of 4 or higher can understand you speech no matter the language you use.
+Additionally, any creature with an intelligence score of 4 or higher can understand your speech no matter the language you use.
 
 ## Ring of Additional Fingers
 _Wondrous Item, Uncommon_

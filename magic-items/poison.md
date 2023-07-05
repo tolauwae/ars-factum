@@ -47,17 +47,23 @@ While not attuned to this needle, anyone can use it as a replacement for a norma
 
 While attuned to this needle you use it as a spellcasting focus, and the DC of any ability check made with it as a poisoner's kit is reduced by 2.
 
-## Orb of Remembering
-_Wondrous item (orb), uncommon (requires attunement)_
-
-This orbs works as a mental library. You can mentally write down anything in it. Reading and writing information takes as much time as with pen and paper.
-
-When you lose attunement to the orb, it loses everything that is written down in it.
-
 ## Petrified Dragon Blood Pearl
 _Wondrous item (stone), very rare_
 
-This small bead of dragon blood can replace one rare (or less) restorative component when creating an antidote for any poison.
+This small bead of dragon blood can replace one rare (or less) restorative component when creating an antidote for any poison without being destroyed.
+
+## Ring of Elder Root
+_Ring, rare (requires attunement)_
+
+This ring is made from roots of the ancient Elder tree. It can bestow upon its bearer powerful protections, but it also bears a heavy curse from the forest for violating its sacred trees.
+
+When you wear this ring, you gain the following benefits:
+- You gain advantage on all saving throws.
+- You become immune to all diseases.
+
+**Curse.** Once you put on this ring, you can't remove it unless you are targeted by the remove curse spell or similar magic. While wearing this ring, you gain the following detriments:
+- You have vulnerability against poison damage.
+- You cannot fall asleep in a forest, under a tree, or in the Feywild, except by magical means.
 
 ## Stone of Poison Detection
 _Wondrous item, common_
@@ -92,11 +98,6 @@ If you spend one minute to read the notes of a single poison, it appears in a ne
 | 4      | Midnight Tears       |
 | 5      | Strangler            |
 | 6      | Wisp Lichen Solution |
-
-## Traveler's Flask
-_Wondrous item, common_
-
-This double-sided iron flask adjusts the temperature of liquids poured from it. Any liquid poured from the blue-capped side becomes refreshingly cool. Any liquid poured from the red-capped side becomes soothingly warm.
 
 ## Vial of Capturing
 _Wondrous Item, Uncommon_
