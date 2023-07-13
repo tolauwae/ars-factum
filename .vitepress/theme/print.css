@@ -6,11 +6,11 @@
 	}
 
         .vp-doc p {
-            line-height: 18px;
+            line-height: 14px;
         }
 
         .vp-doc blockquote > p, body, .vp-doc td {
-            font-size: 14px;
+            font-size: 12px;
         }
 
         .vp-doc th {

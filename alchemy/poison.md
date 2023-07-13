@@ -317,6 +317,7 @@ manufacturing of many poisons and certain
 potions of healing.
 
 <span id="arid-table" class="tbheader">Arid Biome: Generic Components</span>
+
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Ashen pod                 | Powder     | Uncommon  | Corrupting  |
@@ -418,6 +419,7 @@ gains the same types. It can only gain properties
 in this way once.
 
 <span id="aquatic-table" class="tbheader">Aquatic Biome: Generic Components</span>
+
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Brain lotus fruit         | Extract    | Common    | Befuddling  |
@@ -503,6 +505,7 @@ to sleep. It is also an important ingredient of
 [*Abi-Dalzim’s Potion of Dreamless Slumber*](./poison#dreamless-slumber).
 
 <span id="cavernous-table" class="tbheader">Cavernous Biome: Generic Components</span>
+
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Ashwood vines             | Powder     | Common    | Befuddling  |
@@ -608,6 +611,7 @@ component. When the root is dug up, it screams
 and kills all who hear it.
 
 <span id="sylvan-table" class="tbheader">Sylvan Biome: Generic Components</span>
+
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Bane Berry                | Sap        | Uncommon  | Befuddling  |
@@ -707,6 +711,7 @@ people after the Rakshasas has finished his
 dinner. Their blood is almost as deadly.
 
 <span id="urban-table" class="tbheader">Urban Biome: Generic Components</span>
+
 | d20 | Components                | Refinement | Rarity    | Type        |
 |-----|---------------------------|------------|-----------|-------------|
 | 01  | Barrenbolg berries        | Powder     | Very rare | Restorative |
