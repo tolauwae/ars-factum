@@ -44,3 +44,9 @@ While wearing this charm on your person, your thoughts can't be read by telepath
 
 The charm can take any form of jewelry.
 
+::: tip Cursed version: Curse of Shar.
+
+This charm is cursed, so that only followers of Shar can benefit from it. This curse can only be undone by offering it at an altar of Selûne during the hours of the moon.
+
+:::
+

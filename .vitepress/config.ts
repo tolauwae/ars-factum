@@ -36,6 +36,22 @@ export default defineConfig({
           { text: 'Staffs and Wands', link: '/magic-items/staffs' },
         ]
       },
+      {
+          text: 'Naraka\'s Nefarious Menagerie',
+          collapsed: true,
+          items: [
+            { text: 'Overview', link: '/monsters/' },
+            { text: 'Golorr-possessed Korinn', link: '/monsters/golorr-korinn' },
+          ]
+      },
+      {
+          text: 'Homebrew Rules',
+          collapsed: true,
+          items: [
+            { text: 'Overview', link: '/rules/' },
+            { text: 'Resurrection', link: '/rules/resurrection' },
+          ]
+      }
     ],
 
     socialLinks: [
