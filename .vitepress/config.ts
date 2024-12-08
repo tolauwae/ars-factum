@@ -50,6 +50,7 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/rules/' },
             { text: 'Resurrection', link: '/rules/resurrection' },
+            { text: 'Schizophrenic', link: '/rules/schizophrenic' }
           ]
       }
     ],
