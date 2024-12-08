@@ -24,7 +24,7 @@ The two classes share every other stats, including hit points, hit dice, backgro
 Both classes level up at the same time.
 
 However, you only have access to one class at a time, and you switch between the two classes randomly.
-Whenever an event in the [*Consciousness table*](./schizophrenic#consciousness) table below occurs, you must make a Cognitive Check.
+Whenever an event in the [*Consciousness table*](./schizophrenic#consciousness) below occurs, you must make a Cognitive Check.
 Whenever you roll equal or higher than the number in the table, you switch to the other class.
 
 <span id="consciousness" class="tbheader">Consciousness table</span>
@@ -33,6 +33,6 @@ Whenever you roll equal or higher than the number in the table, you switch to th
 | ----------------------------------------- | --------------------- |
 | fall prone                                | 12                    |
 | regain consciousness (inlcudes waking up) | 18                    |
-| lose concentration on a spell             | 8                     |
+| fail a concentration check                | 8                     |
 | using a subclass feature                  | 20                    |
 
