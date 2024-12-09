@@ -37,14 +37,14 @@ Popular amongst far-northern explorers and Underdark denizens on their forays to
 
 Additionally, you gain advantage on the initial saving throw against any effect that would blind you while wearing this item.
 
-## Thought Shield Charm
+## Malora's Thought Shield Charm
 _Wondrous Item, Very Rare_
 
 While wearing this charm on your person, your thoughts can't be read by telepathy or other means unless you allow it.
 
 The charm can take any form of jewelry.
 
-::: tip Cursed version: Curse of Shar.
+::: danger Curse of Shar.
 
 This charm is cursed, so that only followers of Shar can benefit from it. This curse can only be undone by offering it at an altar of Selûne during the hours of the moon.
 

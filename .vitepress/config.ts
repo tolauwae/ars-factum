@@ -25,6 +25,22 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Backgrounds',
+        collapsed: true,
+        items: [
+          { text: 'Overview', link: '/backgrounds/' },
+          { text: 'Schizophrenic', link: '/backgrounds/schizophrenic' },
+        ]
+      },
+      {
+          text: 'Classes',
+          collapsed: true,
+          items: [
+            { text: 'Overview', link: '/classes/' },
+            { text: 'Pact of the Raven Queen', link: '/classes/ravenqueen' },
+          ]
+      },
+      {
         text: 'Magic Items',
         collapsed: true,
         items: [
@@ -50,7 +66,6 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/rules/' },
             { text: 'Resurrection', link: '/rules/resurrection' },
-            { text: 'Schizophrenic', link: '/rules/schizophrenic' }
           ]
       }
     ],

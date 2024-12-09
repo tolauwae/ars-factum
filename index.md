@@ -9,7 +9,15 @@ hero:
 features:
   - title: Alchemy manual
     link: /alchemy/
+  - title: Backgrounds
+    link: /backgrounds/
+  - title: Classes
+    link: /classes/
   - title: Magic Items
     link: /magic-items/
+  - title: Naraka's Nefarious Menagerie
+    link: /monsters/
+  - title: Rules
+    link: /rules/
 ---
 
