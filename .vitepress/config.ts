@@ -12,16 +12,17 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Alchemy Manual', link: '/alchemy/' }
+      { text: 'Invention Manual', link: '/inventing/' }
     ],
 
     sidebar: [
       {
-        text: 'Alchemy Manual',
+        text: 'Invention Manual',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/alchemy/' },
-          { text: 'Poison', link: '/alchemy/poison' },
+          { text: 'Overview', link: '/inventing/' },
+          { text: 'Rules', link: '/inventing/invention' },
+          { text: 'Poison', link: '/inventing/poison' },
         ]
       },
       {
@@ -66,6 +67,7 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/rules/' },
             { text: 'Resurrection', link: '/rules/resurrection' },
+            { text: 'Weapon Customisation', link: '/rules/weapons' },
           ]
       }
     ],

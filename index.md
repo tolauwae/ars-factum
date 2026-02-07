@@ -7,8 +7,8 @@ hero:
   text: "Private Homebrew Creations for Dungeons & Dragons"
 
 features:
-  - title: Alchemy manual
-    link: /alchemy/
+  - title: Invention manual
+    link: /inventing/
   - title: Backgrounds
     link: /backgrounds/
   - title: Classes
