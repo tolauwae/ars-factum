@@ -4,20 +4,48 @@ All weapons in D&D are the same. The only way to get better versions is to acqui
 
 But why not differentiate between the quality of non-magical weapons?
 
-## New Weapon Properties
+## Improved weapons
+
+Weapons can be improved in several aspects: **forge**, **temper**, **weight**, and **finish**.
+
+## Forge qualities
+
+When forging weapons, smiths can use different types of forges and diffirent techniques to shape the weapon.
+
++ **Dwarven.** roll one extra damage die on your first hit per turn.
++ **Elven.** your weapon uses damage dice that are one size larger than normal, to a maximum of d12. So 1d4 becomes 1d6, but 1d12 stays 1d12.
++ **Orcish.** This weapon is designed for raw, savage power. Once per turn, when you roll damage for this weapon, you can treat one damage die as if it rolled its maximum value.
++ **Gnomish.** This weapon's precise engineering ensures consistent performance. When you roll damage for this weapon, you can reroll any damage die that shows a 1 or 2, but you must use the new roll.
++ **Ancient.** This weapon bears the marks of countless battles. Roll damage dice as normal, but the minimum total damage you can deal with this weapon is equal to your proficiency bonus.
+
+## Temper qualities
 
 New properties can add extra requirements to non-magical weapons, to compensate for higher damage than the standard version of those weapons.
 
++ **Brittle.** 
 + **Elegant.** This weapon requires exceptional skill to use. You must have a Dexterity score of 16 or higher to wield an elegant weapon.
-+ **Hefty.** This weapon is unusually large for its type. You must have a Strength score of 14 or higher to wield a hefty weapon.
-+ **Superheavy.** This weapon is so heavy it knocks enemies prone on a successful hit, but also requires incredible strength to wield. (18 STR or higher)
 + **Precise.** This weapon demands perfect accuracy and timing. You must have a Dexterity score of 14 or higher to wield a precise weapon. On a critical hit, you deal maximum damage instead of rolling.
 + **Brutal.** This weapon's devastating strikes can cleave through armor. You must have a Strength score of 16 or higher to wield a brutal weapon. When you hit with this weapon, you can reroll any damage die that shows a 1, but you must use the new roll.
-+ **Unwieldy.** This weapon's awkward construction makes it difficult to ready quickly. You must have a Strength score of 15 or higher to wield an unwieldy weapon. You have disadvantage on initiative rolls while wielding this weapon, but it deals an extra damage die on a hit.
-+ **Balanced.** This weapon requires extensive martial training to use effectively. You must be proficient with at least three martial weapons to wield a balanced weapon. You can use either Strength or Dexterity for attack and damage rolls with this weapon.
-+ **Momentum.** This weapon becomes more dangerous as you maintain your offensive. When you hit the same target with this weapon on consecutive turns, the second hit deals an extra 1d4 damage, and the third and subsequent consecutive hits deal an extra 1d6 damage. Missing or attacking a different target resets this bonus.
 + **Tactical.** This weapon features complex mechanisms that reward cleverness over brawn. You must have an Intelligence score of 13 or higher to wield a tactical weapon. You can use Intelligence instead of Strength or Dexterity for attack and damage rolls.
 + **Ceremonial.** This weapon's ornate design and symbolic power inspire allies. You must have a Charisma score of 14 or higher to wield a ceremonial weapon. Allies within 10 feet of you gain a +1 bonus to saving throws while you wield this weapon.
+
+## Weight qualities
+
++ **Lightweight** Requires 13 DEX or higher. You gain +5 ft movement while wielding it.
++ **Balanced.** This weapon requires extensive martial training to use effectively. You must be proficient with at least three martial weapons to wield a balanced weapon. You can use either Strength or Dexterity for attack and damage rolls with this weapon.
++ **Unwieldy.** This weapon's awkward construction makes it difficult to ready quickly. You must have a Strength score of 15 or higher to wield an unwieldy weapon. You have disadvantage on initiative rolls while wielding this weapon, but it deals an extra damage die on a hit.
++ **Front-Heavy.** This weapon becomes more dangerous as you maintain your offensive. When you hit the same target with this weapon on consecutive turns, the second hit deals an extra 1d4 damage, and the third and subsequent consecutive hits deal an extra 1d6 damage. Missing or attacking a different target resets this bonus.
++ **Hefty.** This weapon is unusually large for its type. You must have a Strength score of 14 or higher to wield a hefty weapon.
++ **Superheavy.** This weapon is so heavy it knocks enemies prone on the first successful hit per turn, but also requires incredible strength to wield. (18 STR or higher)
+
+## Finish qualities
+
++ **Chipped.** roll twice the normal damage dice, take the lowest.
++ **Reinforced Tip.** When attacking objects or constructs, deal +3 damage.
++ **Honed.** roll twice the normal damage dice, take the highest.
++ **Masterwork.** This weapon is crafted with exceptional skill. Add +2 to all damage rolls with this weapon (not +2 per die, but +2 total to the final damage).
++ **Serrated.** This weapon's jagged edge tears at flesh. When you roll the maximum value on any damage die for this weapon, roll one additional damage die of the same size and add it to the damage.
++ **Weighted Edge.** If you roll maximum damage on a die, add +1 additional damage. Rewards spike rolls without being swingy.
 
 ## Custom weapon damage
 
@@ -37,11 +65,3 @@ Generally, the table below shows what ability score requirement merits what leve
 | d10    | 18            |
 | d12    | 20            |
 
-## Quality levels
-
-Aside from changing the damage type, you may also categorize weapons in different levels of quality.
-
-+ **Broken.** roll twice the normal damage dice, take the lowest.
-+ **Sturdy.** roll twice the normal damage dice, take the highest.
-+ **Dwarven.** roll one extra damage die.
-+ **Elven.** your weapon uses damage dice that are one size larger than normal, to a maximum of d12. So 1d4 becomes 1d6, but 1d12 stays 1d12.

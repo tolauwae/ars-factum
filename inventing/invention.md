@@ -22,24 +22,37 @@ The DM may grant advantage or impose disadvantage on the roll for circumstances 
 **Design Requirements.** Each design requires a number of successful _Eureka Rolls_ to complete; the DM determines the requirement for any particular spell, item, or concoction.
 When the required _Eurekas_ are accumulated, the design phase is complete and the project advances to the construction or synthesis phase as the DM decides.
 
-| Complexity | Typical Examples                                     | Suggested EUREKAs |
-| ---------- | ---------------------------------------------------- | ----------------- |
-| Trivial    | Cantrips, common consumables                         | 3 (1+1d4)         |
-| Low        | 1st–2nd level spells, common alchemical recipes      | 7 (2+2d4)         |
-| Moderate   | 3rd–5th level spells, uncommon → rare items          | 11 (4+3d4)        |
-| High       | 6th–8th level spells, rare items, complex constructs | 16 (9+3d4)        |
-| Legendary  | 9th-level spells, legendary items                    | 30 (16+4d6)       |
-
-For example, a dungeon master may sets a new 3rd‑level spell at 8 *Eurekas*. A lone wizard on a long rest may make two *Eureka rolls* that rest, gaining 0–4 *Eurekas* depending on the results.
-
 ::: tip Note to DMs
 Use _Eurekas_ to pace research and reward invested downtime. Grant research bonuses (reduced requirements, advantage, or extra progress) when PCs secure exceptional resources or mentors; likewise, make prolonged study a source of complication or rivalry when appropriate.
 :::
+
+Generally designing new items follows the same Eureka system. However, there are some optional rules that you can adopt for different types of items; specifically, poisons, spells, ...
 
 ::: tip Alternate rule: Collaboration
 The DM may rule that _Eurekas_ may be pooled among collaborators.
 :::
 
+### Inventing: Spells
+
+The complexity of creating new spells is very complex.
+Only masterful mages can start to create new spells.
+In the table below we provide suggested minimum level character and amount of Eureka's for different levels of spells.
+
+| Complexity | Typical Examples                                     | Suggested EUREKAs | Suggested level |
+| ---------- | ---------------------------------------------------- | ----------------- | --------------- |
+| Low        | Cantrips, common consumables                         | 3 (1+1d4)         | 8               |
+| Moderate   | 1st–2nd level spells, common alchemical recipes      | 7 (2+2d4)         | 11              |
+| High       | 3rd–5th level spells, uncommon → rare items          | 11 (4+3d4)        | 15              |
+| Extreme    | 6th–8th level spells, rare items, complex constructs | 16 (9+3d4)        | 18              |
+| Legendary  | 9th-level spells, legendary items                    | 30 (16+4d6)       | 20              |
+
+For example, a dungeon master may sets a new 3rd‑level spell at 8 *Eurekas*. A lone wizard on a long rest may make two *Eureka rolls* that rest, gaining 0–4 *Eurekas* depending on the results.
+
+### Inventing: Poisons
+
+Inventing poisons is a far more varied discipline.
+Attempted by both amateurs, master poisoners, and mages.
+Subsequently, the range of difficulty is much larger.
 
 ## Construction phase: Spells
 
@@ -47,8 +60,9 @@ The DM may rule that _Eurekas_ may be pooled among collaborators.
 
 ## Construction phase: Poisons
 
-Basically the brewing phase described in the [Poison Manual](./poison).
+Basically the brewing phase described in the [Poison Manual](./index.md
 
 ## Construction phase: Weapons
 
 Integrate: [Weapon Customisation](../rules/weapons) for an easy non-magical level of invention require at most 2 _Eurekas_.
+

@@ -50,3 +50,22 @@ This charm is cursed, so that only followers of Shar can benefit from it. This c
 
 :::
 
+## Ring of Wild Empowerment
+_Ring, uncommon (requires attunement)_
+
+This ring in the shape of a celtic snake is infused with the wild power of the Feywild.
+Once per long rest, you can use an action to attempt to empower yourself with its hidden magic.
+When you use this ability, roll on the table below.
+
+| 1d100 | Effect |
+|-------| ------ |
+| 01-02 |        |
+| 03-04 |        |
+
+::: danger Cursed.
+
+This ring is cursed with trickery of the Fey that created it.
+Once you put on this *Cursed* ring, you can't remove it unless you are targeted by the *Remove Curse* spell or similar magic.
+While you wear this ring, you have disadvantage on *Saving Throws* against being *Charmed*.
+
+:::

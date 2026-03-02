@@ -6,6 +6,8 @@
 
 [-> Miscellaneous Items](misc.md)
 
+[-> Netherese](netherese.md)
+
 [-> Poison Items](poison.md)
 
 [-> Staffs](staffs.md)
