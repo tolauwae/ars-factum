@@ -553,8 +553,7 @@ component, rare component. The daggerthorn is a
 small rare tree with small spikey leaves which only
 grows in the shade of larger deciduous trees.
 
-**Flower of the Dawn.** Restorative, very rare
-component, rare component. This rare flower can
+**Flower of the Dawn.** Restorative, rare component. This rare flower can
 only be found in the Feywild. It emits a fragrance
 that instantly awakens a sleeping creature, even
 one in an enchanted slumber.
