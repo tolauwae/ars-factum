@@ -31,6 +31,25 @@ This ancient orb of Netherese origin pulses with unstable magical energy. It has
     - You emit bright light in a 20-foot radius and dim light for an additional 20 feet. This light cannot be suppressed.
     - Whenever a creature starts its turn within 10 feet of you or moves into that area for the first time on a turn, it takes 2d6 force damage. You take half the damage.
 
+## Shield of C-Y-R IV
+**Wondrous item (shield), artifact (requires attunement by a character with strength 14 or higher)**
+
+Forged as part of an ancient arcane construct, this shield hums with latent kinetic energy. Its surface is impossibly smooth, and faint geometric patterns shift when it is in motion.
+
+While attuned to the artifact you gain the following effects:
+
+- While holding this shield, you gain a **+2 bonus to AC**.
+- This shield is considered a **magical weapon** with which you are proficient.
+- You can use the shield as a weapon with the **thrown (30/60)** property. On a hit, it deals **1d6 + your Strength modifier** magical bludgeoning damage.
+
+If you are also attuned to the _Hand of C-Y-R IV_, the shield gives these additional effects:
+
+- You gain a **+1 bonus to AC**.
+- The shield has the _finesse_ property, and now has the **thrown (30/120)** property.
+- You can now use a *reaction* to make a range attack with the shield. When a range attack misses, the target must make a DC 15 dexterity saving throw or take 1d6 thunder damage.
+- Immediately after you make a ranged attack with this shield, it flies back to your hand unless it is beyond 120 feet.
+- When you are hit by a melee attack, you can use your *reaction* to reduce the damage by half.
+
 ## Sarcen
 **Wonderous Item (Piercing), legendary (requires attunement by a spellcaster)**
 
@@ -121,9 +140,18 @@ A spouse, child, sibling, mentor, or dearest friend. You gain these benefits fro
 You trap the soul of a truely ancient being, its power still holds traces of the early magic that shaped the world. You gain these benefits from this soul:
 
 - Your spell save DC and spell attack bonus each increase by 3.
-- You can cast [[Legend Lore]] at will, without expending a spell slot.
-- Once per day, you may cast [[Time Stop]] at will, without expending a spell slot.
+- You can cast _Legend Lore_ at will, without expending a spell slot.
+- Once per day, you may cast _Time Stop_ at will, without expending a spell slot.
 - You can use an action to cast a spell as a ritual.
+
+#### Soul of the Dragon
+
+You trap the soul of a powerful dragon, its power grants you unnatural endurance and life force. You gain these benefits from this soul:
+
+- You become immune to fire damage.
+- You gain resistance to all magical damage.
+- You no longer age.
+- Once per day, you may cast _Polymorph (only self)_ at will, without expending a spell slot.
 
 ### Crafting
 
