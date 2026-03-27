@@ -50,6 +50,19 @@ If you are also attuned to the _Hand of C-Y-R IV_, the shield gives these additi
 - Immediately after you make a ranged attack with this shield, it flies back to your hand unless it is beyond 120 feet.
 - When you are hit by a melee attack, you can use your *reaction* to reduce the damage by half.
 
+## Hand of C-Y-R IV
+**Wondrous item, artifact (requires attunement)**
+
+To attune to the hand, you must lop off your right hand and lower arm just below the elbow and replace it with the metallic hand. Only a skilled artificer can attach the hand in the correct way. Once attached, the hand functions as a normal hand.
+
+While attuned to the artifact you gain the following effects:
+
+- You gain proficiency in athletics.
+- Your Strength score increases by 2, to a maximum of 24.
+- When you make an unarmed strike, it is a critical hit at 19 and 20.
+- Once per turn when you make an unarmed strike you may make an additional unarmed strike attack against any creature in 30ft range without using an action.
+- Performing magic with a metal hand is a challenge. When you cast a spell of level 4 or higher with a somatic component, you have a 10% chance to fumble the spell. Any spell affected in this way takes no effect but does spent any used material components and spell slots as normal.
+
 ## Sarcen
 **Wonderous Item (Piercing), legendary (requires attunement by a spellcaster)**
 
