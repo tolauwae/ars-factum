@@ -59,9 +59,9 @@ While attuned to the artifact you gain the following effects:
 
 - You gain proficiency in athletics.
 - Your Strength score increases by 2, to a maximum of 24.
-- When you make an unarmed strike, it is a critical hit at 19 and 20.
+- When you make an unarmed strike, you may replace its damage with 1d6 + your Strength modifier magical bludgeoning damage. Additionally, your unarmed strikes are critical hits at 19 and 20.
 - Once per turn when you make an unarmed strike you may make an additional unarmed strike attack against any creature in 30ft range without using an action.
-- Performing magic with a metal hand is a challenge. When you cast a spell of level 4 or higher with a somatic component, you have a 10% chance to fumble the spell. Any spell affected in this way takes no effect but does spent any used material components and spell slots as normal.
+- Performing magic with a metal hand is a challenge. When you cast a spell of level 4 or higher with a somatic component, you make a Fumble Roll (d10). Whenever you roll a 1, the spell takes no effect but does consume any material components and spell slots as normal.
 
 ## Sarcen
 **Wonderous Item (Piercing), legendary (requires attunement by a spellcaster)**
@@ -77,12 +77,12 @@ While attuned, you can feel the Sarcan _working_—not like an item you carry, b
 When you cast a spell or draw on magical power, the Sarcan grows hot and the runes along it subtly rotate.
 The powers bestowed on you by the Sarcan depend on the soul you imprison.
 
-When first attuning to this item, it is embedded into your skin and you take 8d6 necrotic damage based on the power of the soul bound to the Sarcen.
+When first attuning to this item, it is embedded into your skin and you take 8d6 necrotic damage.
 
 ::: danger Cursed.
 
 Once you attune to this *Cursed* piercing, you can't remove it unless you are targeted by the *Remove Curse* spell or similar magic.
-Additionally, when attuned to a Sarcen you cannot attune to any other item that is not a Sarcen.
+Additionally, when attuned to a Sarcen you cannot attune to any other item that is not a Sarcen. Every Sarcen counts as a unique magical item regardless of what soul is bound to it.
 
 If the vessel bound to the Sarcen is destroyed, or the soul is released, you no longer gain benefits from this Sarcen, until you replace it with a new soul.
 If you fail to do this within 1d6 days, you turn into a _Weave Wraith_ until you bind a new soul.
@@ -166,6 +166,4 @@ You trap the soul of a powerful dragon, its power grants you unnatural endurance
 - You no longer age.
 - Once per day, you may cast _Polymorph (only self)_ at will, without expending a spell slot.
 
-### Crafting
-
-To craft a Sarcen you need:
+![sarcen](../images/sarcen.png)

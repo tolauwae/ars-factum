@@ -69,3 +69,17 @@ Once you put on this *Cursed* ring, you can't remove it unless you are targeted 
 While you wear this ring, you have disadvantage on *Saving Throws* against being *Charmed*.
 
 :::
+
+## Wind Breaker Cloak
+
+_Wondrous Item (Cloak), Uncommon_
+
+This gray hooded cloak appears to have a dull shimmering blow through its threads like the wind. The cloak has magic from the Elemental Plane of Air weaved through its fine threads, granting the wearer the protection from the primal winds.
+
+While wearing the cloak you gain the following benefits:
+
+You permanently gain the *Cat's Grace* effect from the *Enhance Ability* spell, while wearing this cloak.
+
+You can use an action to cast the *Warding Wind* spell at will. Once this property is used, it can't be used again until the next dawn.
+
+**Cat's Grace:** The target has advantage on Dexterity Checks. It also doesn't take damage from Falling 20 feet or less if it isn't Incapacitated.
