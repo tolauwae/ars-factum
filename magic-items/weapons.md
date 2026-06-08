@@ -38,7 +38,7 @@ _Weapon, rare (requires attunement)_
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. When firing this weapon, a magical
 bullet of blue energy appears in the chamber and ready to fire. A bullet produced by this weapon deals Force damage
 instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the
-bullet emits dim Light in a 20-foot radius. When making an attack beyond 90 feet, the magical bullet grows in strength
+bullet emits dim Light in a 20-foot radius. When making an attack beyond 80 feet, the magical bullet grows in strength
 and deals an additional 1d10 damage.
 
 This weapon has the following forge quality.
@@ -52,9 +52,9 @@ This weapon has the following mastery property. To use this property, you must h
 start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction
 doesn’t exceed 10 feet.
 
-| damage     | weight | qualities | properties                                        |
-|------------|--------|-----------|---------------------------------------------------|
-| 1d10 force | 8 lbs  | gnomish   | range (40/90), loading, two-handed, gnomish, slow |
+| damage     | weight | qualities | properties                                         |
+|------------|--------|-----------|----------------------------------------------------|
+| 1d10 force | 8 lbs  | gnomish   | range (80/120), loading, two-handed, gnomish, slow |
 
 ![farfire musket](../images/spellfire-musket.png)
 
