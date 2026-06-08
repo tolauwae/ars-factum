@@ -98,7 +98,7 @@ When you throw the stone it explodes into a thousand magical sparks. The gem is 
 to whatever object or creature it hit.
 
 If the stone is very rare or higher, a spell caster may also absorb the power of the gem to empower themselves, the
-stone returns to a normal non-magical gem and the spellcaster gains a +5 bonus to their Spell Save DC.
+stone returns to a normal non-magical gem and the spellcaster gains a +5 bonus to their Spell Save DC for 10 minutes.
 
 If the stone is of artifact level you can use a bonus action while holding it to crush it and tear open a brief stitch
 in the Weave at a point you can see within 60 feet. The stone is destroyed, and you choose one of the following effects:
