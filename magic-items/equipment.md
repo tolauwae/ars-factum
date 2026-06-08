@@ -14,6 +14,17 @@ While you wear these goggles made of shimmering magical glass, your vision is au
 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
+## Hand of C-Y-R IV
+
+_Wondrous item, artifact (requires attunement)_
+
+
+::: info Hidden
+
+This stat block has not been revealed yet.
+
+:::
+
 ## Necklace of Dark Blessing
 _Wondrous Item (necklace), rare, attunement (by a non-good creature)_
 

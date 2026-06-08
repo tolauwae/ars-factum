@@ -30,7 +30,7 @@ see-through. To restore it, a single vial of *Oil of Etherealness* has to be app
 
 ## Orb of Teleportation
 
-_Wondrous item (orb), very rare_
+_Wondrous item (orb), rare_
 
 This magical orb can teleport a group of creatures to any location. A spellcaster can telepathically engrave a location
 on the orb's surface by holding the orb for 10 minutes in deep focus. The creature must know the location and be
@@ -86,8 +86,8 @@ An artificer can take the stone and as an action pulverize it into a cloud of ma
 30ft. sphere, the sphere reveals magical effects, magical items, and even the imprint of recent spells cast within the
 last hour, by tracing them into a faint blue glow. For every rarity level above common the gem spreads out an additional
 20ft. and can reveal magic from an additional hour ago. The artificer knows the school of the magic if applicable and
-can make an Arcana Check to identify the specific spell or item immediately. The dust and its effects disappear after 10
-minutes.
+can make an Arcana Check to learn more about the magic, such as identify the spell or magic item. The dust and its
+effects disappear after 10 minutes.
 
 An artificer can take the stone and use its magic to turn a mundane item into a magical one. You may use your infuse
 item feature ignoring the normal item limit. The gem is fused into the item by performing this action and lost forever.
@@ -108,11 +108,11 @@ in the Weave at a point you can see within 60 feet. The stone is destroyed, and 
   18 spellcasting ability check; on a failure, the spell takes no effect but any spell slots or components are spent as
   normal.
 
-| quality   | stone     | price   |
-|-----------|-----------|---------|
-| common    | Azurite   | 10 gp   |
-| uncommon  | Moonstone | 50 gp   |
-| rare      | Jade      | 100 gp  |
-| very rare | Topaz     | 500 gp  |
-| legendary | Sapphire  | 1000 gp |
-| artifact  | Diamond   | 5000 gp |
+| quality   | stone     |
+|-----------|-----------|
+| common    | Azurite   |
+| uncommon  | Moonstone |
+| rare      | Jade      |
+| very rare | Topaz     |
+| legendary | Sapphire  |
+| artifact  | Diamond   |

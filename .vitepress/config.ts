@@ -61,6 +61,7 @@ export default defineConfig({
                 items: [
                     {text: 'Overview', link: '/monsters/'},
                     {text: 'Cathedral Gargoyle', link: '/monsters/cathedral-gargoyle'},
+                    {text: 'C-Y-R IV', link: '/monsters/cyriv'},
                     {text: 'Golorr-possessed Korinn', link: '/monsters/golorr-korinn'},
                 ]
             },

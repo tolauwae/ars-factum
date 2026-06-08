@@ -47,7 +47,7 @@ _See the [Netherese](../magic-items/netherese.md#sarcen) section for the stat bl
 - Gold ingots worth 1200 gp
 - 1 diamond worth 5000 gp
 
-## Prototype farfire firearm
+## Prototype farfire musket
 
 _See the [Weapons](../magic-items/weapons.md) section for the stat block._
 

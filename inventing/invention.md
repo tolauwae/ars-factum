@@ -53,6 +53,42 @@ For example, a dungeon master may sets a new 3rd‑level spell at 8 *Eurekas*. A
 Inventing poisons is a far more varied discipline.
 Attempted by both amateurs, master poisoners, and mages.
 Subsequently, the range of difficulty is much larger.
+A crude toxin may be discovered by an amateur experimenting with rotten herbs, while a legendary poison may require the research of a master poisoner, a mage, or an assassin-alchemist working with impossible substances.
+
+When a character invents a poison, they are not brewing a dose. They are designing a recipe. Once the recipe is complete, the poison can be brewed using the normal rules for brewing poisons.
+
+To invent a poison recipe, the player first describes the intended poison in broad terms: its delivery type, intended effect, and approximate strength. The DM then assigns a recipe complexity, which determines the number of Eurekas required.
+
+**Deciding difficulty.** Below we give suggestions for the difficulty level for each rarity of poison.
+
+| Complexity    |                                                                                  Typical Poison Recipe |       Suggested Eurekas |
+| ------------- | -----------------------------------------------------------------------------------------------------: | ----------------------: |
+| Common        |                                                     Common poison; simple damage or poisoned condition |                       2 |
+| Uncommon      |                                             Uncommon poison; modest condition, damage, or combat trick |                       4 |
+| Rare          |                      Rare poison; strong condition, delayed effect, recurring damage, or unusual rider |                       7 |
+| Very rare     | Very rare poison; long duration, severe debuff, sleep, charm, vulnerability, or magical-seeming effect |                      11 |
+| Legendary     |                                    Legendary poison; planar, absolute, or uniquely supernatural effect |                      16 |
+| Artifact      |                                                    Irreproducible divine, ancient, or impossible toxin | Not normally inventable |
+
+**Recipe modifiers.** After choosing the base complexity, you can optionally apply any of the following modifiers based on certain features of the poison.
+
+| Feature                                                                                    |                                                      Eureka Modifier |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------: |
+| Uses only generic components                                                               |                                                                   +0 |
+| Requires one specific unique component                                                     |                                                                   +1 |
+| Requires two or more specific unique components                                            |                                                                   +2 |
+| Has only instant damage                                                                    |                                                                   -1 |
+| Causes a common condition, such as poisoned, blinded, or slowed                            |                                                                   +0 |
+| Causes a severe condition, such as stunned, unconscious, charmed, paralyzed, or exhaustion |                                                             +1 to +3 |
+| Has a delayed trigger                                                                      |                                                                   +1 |
+| Has recurring damage or repeated saves                                                     |                                                                   +1 |
+| Has a duration longer than 1 hour                                                          |                                                                   +1 |
+| Has a duration longer than 24 hours                                                        |                                                                   +2 |
+| Has a magical or reality-bending effect                                                    |                                                             +2 to +5 |
+| Is designed to spare a creature type, ancestry, faction, or named creature                 |                                                                   +1 |
+| Is difficult to detect, tasteless, odorless, or disguised                                  |                                                                   +1 |
+| Requires a rare environment, season, moon phase, or ritual circumstance                    | -1 to +1, depending on whether this limits or complicates the recipe |
+
 
 ## Construction phase: Spells
 
@@ -64,5 +100,5 @@ Basically the brewing phase described in the [Poison Manual](./index.md
 
 ## Construction phase: Weapons
 
-Integrate: [Weapon Customisation](../rules/weapons) for an easy non-magical level of invention require at most 2 _Eurekas_.
+Integrate: [Weapon Customisation](../rules/weapons) for an easy non-magical level of invention requires at most 2 _Eurekas_.
 
