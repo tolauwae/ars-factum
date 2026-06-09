@@ -52,6 +52,7 @@ export default defineConfig({
                     {text: 'Miscellaneous Items', link: '/magic-items/misc'},
                     {text: 'Netherese Items', link: '/magic-items/netherese'},
                     {text: 'Poison Items', link: '/magic-items/poison'},
+                    {text: 'Potions', link: '/magic-items/potions'},
                     {text: 'Staffs and Wands', link: '/magic-items/staffs'},
                     {text: 'Weapons', link: '/magic-items/weapons'},
                 ]

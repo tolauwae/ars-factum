@@ -61,6 +61,25 @@ as much time as with pen and paper.
 
 When you lose attunement to the orb, it loses everything that is written down in it.
 
+## Lockstone
+_Wondrous Item, rare (requires attunement by a spellcaster)_
+
+This smooth palm-sized stone is etched with faintly glowing runes that shift like tumblers in a lock. While holding the lockstone, you can use an action to press it against a solid surface, such as stone, wood, metal, or glass, and speak its command word. The lockstone magically attaches to that surface and becomes fixed in place, its runes dim and lock in place.
+
+Once fixed, the lockstone cannot be moved except by a creature that succeeds on a DC 24 Strength check, or by effects such as _dispel magic_, or similar magic. The lockstone is very small and can be noticed with a successful DC 18 Wisdom (Perception) check.
+
+While holding the lockstone, you can cast a spell of 4th level or lower into it. The spell must have a casting time of 1 action, require no concentration, and must be capable of targeting a creature, or area. The spell has no immediate effect. Instead, it is stored in the lockstone.
+
+The lockstone can hold only one spell at a time. If a new spell is stored in it, any previously stored spell is lost. A stored spell remains in the lockstone until it is released, dispelled, or replaced.
+
+When the spell is released, it uses your spell save DC, spell attack bonus, and spellcasting ability.
+
+**Target creature.** If the spell in the stone targets a creature, it is released whenever a creature passes within 5 feet of it, or touches it (spell range touch).
+
+**Target area.** If the spell in the stone targets an area, the spell is released when a creature moves within 5 feet of the lockstone or touches it. The spell’s area is centered on the lockstone, or originates from the lockstone if the spell creates a cone, line, or similar area. If the spell requires you to choose the direction of its area when cast, you choose that direction when you store the spell in the lockstone.
+
+Once the lockstone releases its stored spell, the spell is expended and the lockstone remains unusable until the next dawn.
+
 ## Traveler's Flask
 
 _Wondrous item, common_

@@ -57,7 +57,15 @@ A crude toxin may be discovered by an amateur experimenting with rotten herbs, w
 
 When a character invents a poison, they are not brewing a dose. They are designing a recipe. Once the recipe is complete, the poison can be brewed using the normal rules for brewing poisons.
 
-To invent a poison recipe, the player first describes the intended poison in broad terms: its delivery type, intended effect, and approximate strength. The DM then assigns a recipe complexity, which determines the number of Eurekas required.
+To invent a poison recipe, a character has different approaches available to them.
+
+1. A character starts from a set of components and tries to invent a truly new and unique poison.
+2. A character wishes to discover the recipe of a poison with certain features.
+
+Each approach has their own invention process.
+
+
+the player first describes the intended poison in broad terms: its delivery type, intended effect, and approximate strength. The DM then assigns a recipe complexity, which determines the number of Eurekas required.
 
 **Deciding difficulty.** Below we give suggestions for the difficulty level for each rarity of poison.
 

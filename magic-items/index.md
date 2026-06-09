@@ -10,5 +10,8 @@
 
 [-> Poison Items](poison.md)
 
-[-> Staffs](staffs.md)
+[-> Potions](potions.md)
 
+[-> Staffs and Wands](staffs.md)
+
+[-> Weapons](weapons.md)
