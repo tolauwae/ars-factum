@@ -32,7 +32,7 @@ This ancient orb of Netherese origin pulses with unstable magical energy. It has
     - Whenever a creature starts its turn within 10 feet of you or moves into that area for the first time on a turn, it takes 2d6 force damage. You take half the damage.
 
 ## Shield of C-Y-R IV
-**Wondrous item (shield), artifact (requires attunement by a character with strength 14 or higher)**
+_Wondrous item (shield), artifact (requires attunement by a character with strength 14 or higher)_
 
 Forged as part of an ancient arcane construct, this shield hums with latent kinetic energy. Its surface is impossibly smooth, and faint geometric patterns shift when it is in motion.
 
@@ -51,7 +51,8 @@ If you are also attuned to the _Hand of C-Y-R IV_, the shield gives these additi
 - When you are hit by a melee attack, you can use your *reaction* to reduce the damage by half.
 
 ## Hand of C-Y-R IV
-**Wondrous item, artifact (requires attunement)**
+
+_Wondrous item, artifact (requires attunement)_
 
 To attune to the hand, you must lop off your right hand and lower arm just below the elbow and replace it with the metallic hand. Only a skilled artificer can attach the hand in the correct way. Once attached, the hand functions as a normal hand.
 
